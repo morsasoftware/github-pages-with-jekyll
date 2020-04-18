@@ -1,1 +1,4 @@
-Prueba de archivo nuevo dentro de pagina blog
+---
+title: "Nuevo archivo"
+date: 2020-04-18
+---
