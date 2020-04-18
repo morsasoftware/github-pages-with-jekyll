@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Bienvenido a mi blog!
 
-I'm glad you are here. I plan to talk about ...
+Estoy entrando en el mundo de git!
+
+[Mi pagina](http://morsasoftware.com)
