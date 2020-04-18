@@ -2,4 +2,4 @@
 
 Estoy entrando en el mundo de git!
 
-[Mi pagina](http://morsasoftware.com)
+[Visita mi web](http://morsasoftware.com)
